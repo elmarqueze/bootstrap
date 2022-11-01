@@ -1,0 +1,37 @@
+.navbar-nav .nav-link.active{
+    color:#8011f2;
+}
+
+.btn-azul{
+    background-color: #0E153A;
+    color: white;
+}
+
+.btn-azul:hover{
+    background-color: white;
+    border: #8011f2 2px solid;
+    color: #8011f2;
+}
+
+.bg-azul{
+    background-color: #0E153A;
+}
+
+footer{
+    color: white;
+}
+
+.btn-form{
+    background-color: #8011f2;
+    color: white;
+}
+
+.btn-form:hover{
+    background-color: white;
+    color: #8011f2;
+    border: 2px solid #8011f2;
+}
+
+.card{
+    width: 250px;
+}
