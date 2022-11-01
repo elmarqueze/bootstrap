@@ -17,6 +17,10 @@
     background-color: #0E153A;
 }
 
+.span{
+    color: #8011f2;
+}
+
 footer{
     color: white;
 }
@@ -34,4 +38,11 @@ footer{
 
 .card{
     width: 250px;
+    transition: .4s;
+}
+
+.card:hover{
+    box-shadow: 3px 5px 13px -4px rgba(0,0,0,0.75);
+-webkit-box-shadow: 3px 5px 13px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px 5px 13px -4px rgba(0,0,0,0.75);
 }
